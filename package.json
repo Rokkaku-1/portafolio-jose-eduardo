@@ -1,0 +1,11 @@
+{
+  "name": "portafolio-jose-eduardo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Escritorio creativo de Jose Eduardo Berrospi Huaman",
+  "scripts": {
+    "build": "node build-retro.cjs",
+    "start": "node preview.cjs"
+  },
+  "engines": { "node": ">=22" }
+}

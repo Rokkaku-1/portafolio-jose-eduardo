@@ -1,0 +1,39 @@
+[
+  {
+    "id":"gordis-post",
+    "title":"Gordis Burger · Post promocional",
+    "type":"Post · 1 imagen",
+    "description":"Una pieza para redes sociales que retoma la estética retro, el rojo y el crema de la propuesta web de Gordis Burger.",
+    "download":"assets/social/gordis-burger-post-conceptual.png",
+    "downloadLabel":"Descargar post (PNG)",
+    "images":[{"src":"assets/social/gordis-post-01.webp","alt":"Post conceptual de Gordis Burger: Hoy pinta una Gordis, con una hamburguesa y tipografía retro roja."}]
+  },
+  {
+    "id":"china-carrusel",
+    "title":"China Fu · Carrusel gastronómico",
+    "type":"Carrusel · 4 láminas",
+    "description":"Una secuencia editorial en rojo y crema: portada, chaufa, una mesa para compartir y cierre para explorar la carta.",
+    "download":"assets/social/china-fu-carrusel.zip",
+    "downloadLabel":"Descargar carrusel (ZIP)",
+    "images":[
+      {"src":"assets/social/china-01.webp","alt":"Lámina 1 de China Fu: El antojo tiene nombre, con un plato de arroz chaufa."},
+      {"src":"assets/social/china-02.webp","alt":"Lámina 2 de China Fu: Team chaufa, con un primer plano de arroz chaufa y palillos."},
+      {"src":"assets/social/china-03.webp","alt":"Lámina 3 de China Fu: Hoy se comparte, con chaufa y tallarín sobre una mesa."},
+      {"src":"assets/social/china-04.webp","alt":"Lámina 4 de China Fu: Arma tu próxima mesa, con un cierre rojo para explorar la carta."}
+    ]
+  },
+  {
+    "id":"gordis-carrusel",
+    "title":"Gordis Burger · Carrusel retro",
+    "type":"Carrusel · 4 láminas",
+    "description":"Una secuencia centrada en el producto: portada, detalle del cheddar, ingredientes y cierre para conocer la carta.",
+    "download":"assets/social/gordis-burger-carrusel.zip",
+    "downloadLabel":"Descargar carrusel (ZIP)",
+    "images":[
+      {"src":"assets/social/gordis-01.webp","alt":"Lámina 1 de Gordis Burger: El antojo tiene nombre, y se llama Gordis, con una hamburguesa."},
+      {"src":"assets/social/gordis-02.webp","alt":"Lámina 2 de Gordis Burger: Mucho cheddar, con un primer plano de una hamburguesa con queso."},
+      {"src":"assets/social/gordis-03.webp","alt":"Lámina 3 de Gordis Burger: Todo suma al antojo, con los ingredientes de la hamburguesa separados en capas."},
+      {"src":"assets/social/gordis-04.webp","alt":"Lámina 4 de Gordis Burger: Tu próxima burga, con hamburguesa y papas y un cierre para conocer la carta."}
+    ]
+  }
+]
